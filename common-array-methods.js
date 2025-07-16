@@ -27,7 +27,7 @@ for (let i = 0; i < orders[0].length; i++) {
 
 //6. Add a New Order & Track Length
 orders[0].push("Flat White");
-console.log(`The new length of the drink orders is: ${orders[0].length} drinks.`)
+console.log(`The new length of the drink orders is: ${orders[0].length} drinks.`);
 
 //I assume log this last order with one drink and no pastries?
 let newDrinkOrder = 3;
